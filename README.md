@@ -18,7 +18,7 @@
 
 ### 🛠️ Технологии и инструменты
 
-<img src="https://skillicons.dev/icons?i=python,flask,js,ts,nodejs,react,nextjs,bootstrap,docker,postgres,nginx,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,flask,js,ts,nodejs,react,tailwind,bootstrap,nextjs,bootstrap,docker,postgres,nginx,git,linux,strapi,grafana,cisco,mikrotik,omada" />
 <br/>
 <span>
   • Strapi • Flask • PostgreSQL • Nginx • Grafana • Cisco • Mikrotik • Omada • Bootstrap
