@@ -1,22 +1,22 @@
-<h1 align="center">Привет, я Алекс — технический лидер, продуктовый стратег и инженерный визионер</h1>
+<h1 align="center">Hi, I'm Alex — Tech Leader, Product Strategist & Engineering Visionary</h1>
 
 <p align="center">
-  <i>Создаю технологические системы, которые не просто работают — они масштабируются, адаптируются и меняют рынок.</i>
+  <i>I build systems that don’t just work — they scale, adapt, and redefine markets.</i>
 </p>
 
 ---
 
-### 🧩 Обо мне
+### 🧩 About Me
 
-- 🧠 CTO с продакт-мышлением и инженерной базой.
-- 💼 Опыт в запуске и развитии digital-продуктов от идеи до продакшена.
-- ⚙️ Архитектура, DevOps, AI-интеграции, безопасность, микросервисы, монорепы.
-- 👥 Умею выстраивать команды, процессы и кодовую культуру.
-- 📍 Работаю на стыке технологий, бизнеса и пользовательского опыта.
+- 🧠 CTO with a strong product mindset and engineering foundation.  
+- 💼 Proven experience launching and scaling digital products from zero to production.  
+- ⚙️ Expertise in architecture, DevOps, AI integration, security, microservices, monorepos.  
+- 👥 Skilled in building high-performing teams, engineering processes, and clean code culture.  
+- 📍 Operate at the intersection of technology, business, and user experience.  
 
 ---
 
-### 🛠️ Технологии и инструменты
+### 🛠️ Technologies & Tools
 
 <img src="https://skillicons.dev/icons?i=python,flask,js,ts,nodejs,react,tailwind,bootstrap,nextjs,docker,postgres,nginx,git,linux,grafana" />
 <br/>
@@ -26,27 +26,26 @@
 
 ---
 
-### 💼 Последние проекты
+### 💼 Latest Projects
 
-| Проект                                              | Описание                                                | Технологии                              |
-| --------------------------------------------------- | ------------------------------------------------------- | --------------------------------------- |
-| [**dexstudioapp.site**](https://dexstudioapp.site/) | Корпоративный сайт digital-агентства                    | Next.js, React, Tailwind                |
-| [**omnio.solutions**](https://omnio.solutions/)     | Витрина технологических решений + CMS                   | Next.js, Strapi v5, PostgreSQL          |
-| [**mbudo-kashira.ru**](https://mbudo-kashira.ru/)   | Cайт спортшколы + AI-контент + брендбук                 | Next.js, Midjourney, Figma              |
-| [**@I\_P\_U\_bot**](https://t.me/I_P_U_bot)         | MVP новой социальной структуры с ИИ и системой обещаний | Aiogram 3, FastAPI, PostgreSQL, Next.js |
-
----
-
-### 📬 Контакты
-
-- 📧 Email: [alekseykuchev@gmail.com](mailto:alekseykuchev@gmail.com)
-- 💬 Telegram: [@AlekseyOp](https://t.me/AlekseyOp)
-- 🔗 LinkedIn: [alex-kuchev](https://www.linkedin.com/in/alex-kuchev/)
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [**dexstudioapp.site**](https://dexstudioapp.site/) | Corporate site for a digital agency | Next.js, React, Tailwind |
+| [**omnio.solutions**](https://omnio.solutions/) | Tech showcase platform with CMS backend | Next.js, Strapi v5, PostgreSQL |
+| [**mbudo-kashira.ru**](https://mbudo-kashira.ru/) | Sports school website + brand book + AI-generated content | Next.js, Midjourney, Figma |
+| [**@I_P_U_bot**](https://t.me/I_P_U_bot) | MVP of a new social structure powered by AI and promises system | Aiogram 3, FastAPI, PostgreSQL, Next.js |
 
 ---
 
-### 💡 Подход
+### 📬 Contact
 
-> **"Хороший код решает задачу. Отличная архитектура масштабирует её решение."**  
-> В работе ориентируюсь на ценность для пользователя, инженерную элегантность и стратегию роста.
+- 📧 Email: [alekseykuchev@gmail.com](mailto:alekseykuchev@gmail.com)  
+- 💬 Telegram: [@AlekseyOp](https://t.me/AlekseyOp)  
+- 🔗 LinkedIn: [alex-kuchev](https://www.linkedin.com/in/alex-kuchev/)  
 
+---
+
+### 💡 Philosophy
+
+> **"Good code solves a problem. Great architecture scales the solution."**  
+> I focus on user value, engineering elegance, and long-term product growth.
