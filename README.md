@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alex — Tech Leader, Product Strategist & Engineering Visionary</h1>
+<h1 align="center">Hi, I'm Alex - Tech Leader, Product Strategist & Engineering Visionary</h1>
 
 <p align="center">
   <i>I build systems that don’t just work — they scale, adapt, and redefine markets.</i>
