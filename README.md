@@ -21,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=python,flask,js,ts,nodejs,react,tailwind,bootstrap,nextjs,docker,postgres,nginx,git,linux,grafana" />
 <br/>
 <span>
-  • Strapi • Flask • PostgreSQL • Nginx • Grafana • Cisco • Mikrotik • Omada • Bootstrap
+  • Strapi CMS • Cisco • Mikrotik • Omada
 </span>
 
 ---
