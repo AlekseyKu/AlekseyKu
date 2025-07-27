@@ -30,7 +30,7 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [**dexstudioapp.site**](https://dexstudioapp.site/) | Corporate site for a digital agency | Next.js, React, Tailwind |
+| [**dexsa.site**](https://dexsa.site/) | Corporate site for a digital agency | Next.js, React, Tailwind |
 | [**omnio.solutions**](https://omnio.solutions/) | Tech showcase platform with CMS backend | Next.js, Strapi v5, PostgreSQL |
 | [**mbudo-kashira.ru**](https://mbudo-kashira.ru/) | Sports school website + brand book + AI-generated content | Next.js, Midjourney, Figma |
 | [**@I_P_U_bot**](https://t.me/I_P_U_bot) | MVP of a new social structure powered by AI and promises system | Aiogram 3, FastAPI, PostgreSQL, Next.js |
